@@ -1,0 +1,8 @@
+Enter Regular Expression (use . for concat, | for union, * for star): 
+NFA Transitions:
+0 -- a --> 1
+2 -- b --> 3
+1 --  --> 2
+
+Start State: 0
+Accept State: 3
